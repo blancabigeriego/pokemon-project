@@ -1,0 +1,46 @@
+html{
+    background: #C02425; 
+    background: -webkit-linear-gradient(to right, #F0CB35, #C02425);  
+    background: linear-gradient(to right, #F0CB35, #C02425); 
+    
+}
+body{
+    padding: 30px;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    height: 150px;
+    
+
+}
+
+.arrow{
+    width: 75px;
+    margin: 10px;
+    
+
+}
+.small{
+    width: 61px;
+    margin-bottom: 17px;
+}
+
+#pokemon{
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.pokeimg{
+    width: 280px;
+    height: 280px;
+}
